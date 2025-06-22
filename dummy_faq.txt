@@ -1,0 +1,29 @@
+Q: What is your return policy?
+A: We offer a 30-day return policy from the date of delivery. Items must be unused and in original packaging.
+
+Q: How can I track my order?
+A: Once your order is shipped, you'll receive a tracking link via email or SMS.
+
+Q: Do you offer international shipping?
+A: Yes, we ship to over 50 countries. Shipping charges and times vary based on the destination.
+
+Q: How do I contact customer support?
+A: You can email us at support@example.com or use the live chat on our website.
+
+Q: What payment methods do you accept?
+A: We accept credit cards, debit cards, UPI, PayPal, and Net Banking.
+
+Q: Can I cancel my order after placing it?
+A: Yes, orders can be canceled within 2 hours of placing them. Please contact support immediately.
+
+Q: Do you offer cash on delivery?
+A: Yes, cash on delivery is available for orders under ₹5000.
+
+Q: Is my personal information secure?
+A: Absolutely. We use industry-standard encryption and never share your data with third parties.
+
+Q: How do I reset my password?
+A: Click on “Forgot Password” on the login page and follow the instructions sent to your email.
+
+Q: Are your products covered under warranty?
+A: Yes, most products come with a 1-year warranty. Please check the product page for details.
