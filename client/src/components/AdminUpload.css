@@ -1,0 +1,20 @@
+.upload-box {
+  margin: 20px;
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.upload-box h2 {
+  margin-bottom: 12px;
+}
+
+.upload-box textarea {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 8px;
+}
+
+.upload-box input[type="file"] {
+  margin-bottom: 8px;
+}

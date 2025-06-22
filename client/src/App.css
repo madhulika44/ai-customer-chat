@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* General layout */
+.app-container {
+  font-family: sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Navbar */
+.navbar {
+  height: 100px; /* increased height */
+  background-color:#007bff; /* pastel color */
+  color: #333;
+  padding: 0 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;  /* center horizontally */
+  align-items: center;      /* center vertically */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Main content layout */
+.main-content {
+  display: flex;
+  flex: 1;
+  background-color: #f6f8fa; /* Pastel background */
+}
+
+/* Admin Section */
+.admin-section {
+  width: 35%;
+  padding: 20px;
+  background-color: #e6f7ff; /* Light pastel blue */
+  border-right: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Chat Section */
+.chat-section {
+  width: 65%;
+  padding: 20px;
+  background-color: #fef6e4; /* Light pastel yellow */
+  box-sizing: border-box;
+}
